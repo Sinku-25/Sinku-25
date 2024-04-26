@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AhmedYoussef</h1>
 <h3 align="center">A passionate full stack web developer from Alexandria , Egypt</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 <p align="left"> <a href="https://twitter.com/sinku50" target="blank"><img src="https://img.shields.io/twitter/follow/sinku50?logo=twitter&style=for-the-badge" alt="sinku50" /></a> </p>
 
 - 🌱 I’m currently learning **React , Nodejs**
